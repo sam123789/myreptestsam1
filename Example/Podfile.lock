@@ -1,0 +1,16 @@
+PODS:
+  - myreptestsam1 (0.1.0)
+
+DEPENDENCIES:
+  - myreptestsam1 (from `../`)
+
+EXTERNAL SOURCES:
+  myreptestsam1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  myreptestsam1: 78756cf34c52d869995e741ca4c5d50ae460a8dd
+
+PODFILE CHECKSUM: 5770c66f09c78ef9be6a4cde936c0fe79ddcad62
+
+COCOAPODS: 1.5.3

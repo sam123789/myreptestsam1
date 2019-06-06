@@ -1,0 +1,6 @@
+framework module Pods_myreptestsam1_Example {
+  umbrella header "Pods-myreptestsam1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

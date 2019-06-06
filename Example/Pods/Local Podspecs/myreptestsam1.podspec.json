@@ -1,0 +1,22 @@
+{
+  "name": "myreptestsam1",
+  "version": "0.1.0",
+  "summary": "A short description of myreptestsam1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sam123789/myreptestsam1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sam123789": "sam@123789.org"
+  },
+  "source": {
+    "git": "https://github.com/sam123789/myreptestsam1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myreptestsam1/Classes/**/*"
+}
